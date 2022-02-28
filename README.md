@@ -13,7 +13,7 @@
 
 **Question2**
 #### This is a 3D scatter plot visualizing Galton's research on mother's height, father's height, and child's height
-<iframe src='plotly-galton_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='plotly-galton_fig.html' width=900 height=600 frameBorder=0></iframe>
 
 
 ---
