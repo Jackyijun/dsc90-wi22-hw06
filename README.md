@@ -13,13 +13,13 @@
 
 **Question2**
 #### This is a 3D scatter plot visualizing Galton's research on mother's height, father's height, and child's height
-<iframe src='../plotly-galton_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='plotly-galton_fig.html' width=800 height=600 frameBorder=0></iframe>
 
 
 ---
 
 **Question3**
 #### This is a demographic map of French Population in each departments
-<iframe src='../plotly-france_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='plotly-france_fig.html' width=800 height=600 frameBorder=0></iframe>
 
 
