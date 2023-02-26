@@ -1,5 +1,5 @@
 # Welcome to DSC90 Winter2022 HW06 Visualization
-### Yijun Luo (yil176@ucsd.edu)
+### Yijun Luo 
 #### Feb 27, 2022
 
 ---
